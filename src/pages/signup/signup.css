@@ -1,0 +1,28 @@
+.signup-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100vh;
+}
+.signup-container .signup-form {
+    width: 500px;
+    margin: 50px auto;
+}
+.signup-form .ant-form-item-label > label {
+    color: #fff;
+}
+.signup-form .signup-button {
+    width: 100%;
+}
+.signup-form .signin-link {
+    text-align: right;
+    margin-top: 5px;
+    color: #fff;
+}
+.signup-form .signup-link {
+    margin-left: 12px;
+}
+.text-success {
+    color: #52c41a !important;
+}

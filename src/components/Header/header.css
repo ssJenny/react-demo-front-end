@@ -1,0 +1,23 @@
+.header {
+    color: #fff;
+    padding: 0 50px;
+}
+.header-menu {
+    background-color: transparent;
+    color: #fff;
+    border-bottom: 0;
+    margin-top: 5px;
+}
+.header-menu .ant-menu-item a{
+    color: #fff;
+}
+.header-search {
+    float: right;
+    margin-top: 12px;
+}
+.header-search .search-input {
+    background-color: rgba(255, 255, 255, 0.4);
+}
+.btn-signin {
+    border-color: transparent;
+}
